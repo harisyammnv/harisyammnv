@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS, Time Series Analysis, ML/DL**
 
-- 📫 How to reach me **harisyam.bphc@gmail.com**
+- 📫 How to reach me **mnv.harisyam@gmail.com**
 
 
 <h3 align="left">Languages and Tools: These are the tools I use most of the time</h3>
