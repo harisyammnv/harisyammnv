@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harisyam Manda</h1>
-<h3 align="center">A passionate Data Scientist from India, currently located in Austria</h3>
+<h3 align="center">A passionate Data Scientist currently located in Austria</h3>
 
 - 🔭 I’m currently working on [MLOps](https://github.com/harisyammnv/MLOps-demo.git)
 
